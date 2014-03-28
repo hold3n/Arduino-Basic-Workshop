@@ -13,6 +13,6 @@ Il workshop tratta i seguenti argomenti:
 
 
 
-CC 2014 *Daniele Iori* e *Ivan De Cesaris* per Officine Giardino
-
-Quest'opera è distribuita con Licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale. link: [Creative Commons 4.0 License](creativecommons.org/licenses/by-sa/4.0/ "CC License")
+CC 2014 *Daniele Iori* e *Ivan De Cesaris* per Officine Giardino.
+Quest'opera è distribuita con Licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale.
+link: [Creative Commons 4.0 License](creativecommons.org/licenses/by-sa/4.0/ "CC License")
