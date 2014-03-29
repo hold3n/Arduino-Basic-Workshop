@@ -1,4 +1,4 @@
-_bonus_01_bonus_01/*
+/*
   Mostra i tre colori primari ripetutamente
 */
 
