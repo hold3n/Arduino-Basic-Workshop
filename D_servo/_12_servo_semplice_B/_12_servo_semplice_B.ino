@@ -20,16 +20,17 @@ void setup()
  
 void loop() 
 { 
-  for(posizione = 180; posizione>=1; posizionepos-=1)      
-  {                                
-      myservo.write(pos);              
-      delay(10);                        
-  } 
   
-  for(posizione = 0; posizione < 180; posizione += 1)  
+  for(pos = 0; pos < 180; pos += 1)  
   {                                  
       myservo.write(pos);               
       delay(10);                       
+  } 
+  
+  for(pos = 180; pos>=1; pos-=1)      
+  {                                
+      myservo.write(pos);              
+      delay(10);                        
   } 
   
 } 
